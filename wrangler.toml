@@ -5,11 +5,11 @@ name = "server-id11" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]] 
-pattern = "id11.johan.cyou", 
+pattern = "id11.johan.cyou"
 custom_domain = true 
-pattern = "quiz.int.vidio.com.id11.johan.cyou", 
+pattern = "quiz.int.vidio.com.id11.johan.cyou" 
 custom_domain = true 
-pattern = "quiz.vidio.com.id11.johan.cyou", 
+pattern = "quiz.vidio.com.id11.johan.cyou"
 custom_domain = true 
 
 
